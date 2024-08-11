@@ -9,6 +9,7 @@ const Home = () => {
         <Link to={"/memo"}>Memo</Link>
         <Link to={"/lazyload"}>LazyLoad</Link>
         <Link to={"/reference"}>Reference</Link>
+        <Link to={"/skeltonload"}>Skeleton Loading</Link>
       </div>
     </div>
   );
